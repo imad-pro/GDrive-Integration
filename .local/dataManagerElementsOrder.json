@@ -1,0 +1,52 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_Employee&Sequence_14",
+        "FileDetails&Sequence_14",
+        "DownloadPath&Sequence_14",
+        "PDFID&Sequence_14",
+        "PDFDetails&Sequence_14",
+        "PDFPath&Sequence_14",
+        "ExcelID&Sequence_14",
+        "ExcelDetails&Sequence_14",
+        "ReceiverEmail&Sequence_15",
+        "ReceiverName&Sequence_15",
+        "Body&Sequence_15"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../Version Control/GDrive Integration.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FileDetails&Sequence_14",
+        "DownloadPath&Sequence_14",
+        "PDFID&Sequence_14",
+        "PDFDetails&Sequence_14",
+        "PDFPath&Sequence_14",
+        "ExcelID&Sequence_14",
+        "ExcelDetails&Sequence_14",
+        "dt_Employee&Sequence_14",
+        "ReceiverEmail&Sequence_15",
+        "ReceiverName&Sequence_15",
+        "Body&Sequence_15"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
