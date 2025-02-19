@@ -4,11 +4,11 @@ This **UiPath automation** streamlines the process of sending newsletters via **
 
 ##  Features  
 
-✔ **Event-Triggered Execution:** Listening for the creation of `UsersNewsletter.xlsx` in Google Drive.  
+✔ **Event-Triggered Execution:** Listening for the creation of `UsersNewsletter.xlsx` in Google Drive. 
 ✔ **Google Drive API Integration:** Finding the Excel file,Downloading it to a local folder.
 ✔ **Using recipient details:** reading the Excel file to a data table, and iterating over each row to use recipient details.
-✔ **Dynamic Email Personalization:** Extracts recipient info and sends customized emails with a **PDF attachment**.  
-✔ **Exception Handling & Logging:** Implements **Try-Catch, Throw, and Rethrow** with info/warn logs.  
+✔ **Dynamic Email Personalization:** Extracts recipient info and sends customized emails with a **PDF attachment**.
+✔ **Exception Handling & Logging:** Implements **Try-Catch, Throw, and Rethrow** with info/warn logs. 
 
 ## 🔧 Setup Instructions  
 
